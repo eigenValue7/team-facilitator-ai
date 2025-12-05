@@ -1,0 +1,13 @@
+backend/venv311/
+backend/__pycache__/
+backend/.env
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+.DS_Store
+.vscode/
+.envrc
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+coverage/
